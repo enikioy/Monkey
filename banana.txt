@@ -1,2 +1,1 @@
-Monkey+banana=love
-Minions love banana
+Monkey true love
